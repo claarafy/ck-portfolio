@@ -161,7 +161,9 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
-
+#header-name {
+  font-size: 100px;
+}
 
 /* About */
 
