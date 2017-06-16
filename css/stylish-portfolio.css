@@ -237,13 +237,12 @@ hr.small {
 .project-button {
   margin-top: 15%;
 }
-
 .github-button a, .project-button a {
   width: 200px;
   padding: 12px 48px;
   text-align: center;
-  color: white;
-  border: solid 2px white;
+  color: grey;
+  border: solid 2px grey;
   z-index: 1;
 }
 
