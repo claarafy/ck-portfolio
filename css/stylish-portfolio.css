@@ -163,14 +163,17 @@ hr.small {
 }
 #header-name {
   font-size: 100px;
+  color: indianRed;
 }
-
+#header-developer {
+  color: crimson;
+  font-weight: 900;
+}
 /* About */
 
 .about {
     padding: 50px 0;
 }
-
 /* Services */
 
 .services {
@@ -243,6 +246,7 @@ hr.small {
   color: grey;
   border: solid 2px grey;
   z-index: 1;
+  border-radius: 12px;
 }
 
 
